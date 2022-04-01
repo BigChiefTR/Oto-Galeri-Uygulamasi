@@ -1,0 +1,48 @@
+C:\Users\yasar\Desktop\OtoGaleriUygulamasi_G022\OtoGaleriUygulamasi_G022\obj\Debug\net5.0\OtoGaleriUygulamasi_G022.csproj.AssemblyReference.cache
+C:\Users\yasar\Desktop\OtoGaleriUygulamasi_G022\OtoGaleriUygulamasi_G022\obj\Debug\net5.0\OtoGaleriUygulamasi_G022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasar\Desktop\OtoGaleriUygulamasi_G022\OtoGaleriUygulamasi_G022\obj\Debug\net5.0\OtoGaleriUygulamasi_G022.AssemblyInfoInputs.cache
+C:\Users\yasar\Desktop\OtoGaleriUygulamasi_G022\OtoGaleriUygulamasi_G022\obj\Debug\net5.0\OtoGaleriUygulamasi_G022.AssemblyInfo.cs
+C:\Users\yasar\Desktop\OtoGaleriUygulamasi_G022\OtoGaleriUygulamasi_G022\obj\Debug\net5.0\OtoGaleriUygulamasi_G022.csproj.CoreCompileInputs.cache
+C:\Users\yasar\Desktop\OtoGaleriUygulamasi_G022\OtoGaleriUygulamasi_G022\bin\Debug\net5.0\OtoGaleriUygulamasi_G022.exe
+C:\Users\yasar\Desktop\OtoGaleriUygulamasi_G022\OtoGaleriUygulamasi_G022\bin\Debug\net5.0\OtoGaleriUygulamasi_G022.deps.json
+C:\Users\yasar\Desktop\OtoGaleriUygulamasi_G022\OtoGaleriUygulamasi_G022\bin\Debug\net5.0\OtoGaleriUygulamasi_G022.runtimeconfig.json
+C:\Users\yasar\Desktop\OtoGaleriUygulamasi_G022\OtoGaleriUygulamasi_G022\bin\Debug\net5.0\OtoGaleriUygulamasi_G022.runtimeconfig.dev.json
+C:\Users\yasar\Desktop\OtoGaleriUygulamasi_G022\OtoGaleriUygulamasi_G022\bin\Debug\net5.0\OtoGaleriUygulamasi_G022.dll
+C:\Users\yasar\Desktop\OtoGaleriUygulamasi_G022\OtoGaleriUygulamasi_G022\bin\Debug\net5.0\ref\OtoGaleriUygulamasi_G022.dll
+C:\Users\yasar\Desktop\OtoGaleriUygulamasi_G022\OtoGaleriUygulamasi_G022\bin\Debug\net5.0\OtoGaleriUygulamasi_G022.pdb
+C:\Users\yasar\Desktop\OtoGaleriUygulamasi_G022\OtoGaleriUygulamasi_G022\obj\Debug\net5.0\OtoGaleriUygulamasi_G022.dll
+C:\Users\yasar\Desktop\OtoGaleriUygulamasi_G022\OtoGaleriUygulamasi_G022\obj\Debug\net5.0\ref\OtoGaleriUygulamasi_G022.dll
+C:\Users\yasar\Desktop\OtoGaleriUygulamasi_G022\OtoGaleriUygulamasi_G022\obj\Debug\net5.0\OtoGaleriUygulamasi_G022.pdb
+C:\Users\yasar\Desktop\OtoGaleriUygulamasi_G022\OtoGaleriUygulamasi_G022\obj\Debug\net5.0\OtoGaleriUygulamasi_G022.genruntimeconfig.cache
+D:\Masaüstü\G022 Sınıf\OtoGaleriUygulamasi\OtoGaleriUygulamasi_G022\bin\Debug\net5.0\OtoGaleriUygulamasi_G022.exe
+D:\Masaüstü\G022 Sınıf\OtoGaleriUygulamasi\OtoGaleriUygulamasi_G022\bin\Debug\net5.0\OtoGaleriUygulamasi_G022.deps.json
+D:\Masaüstü\G022 Sınıf\OtoGaleriUygulamasi\OtoGaleriUygulamasi_G022\bin\Debug\net5.0\OtoGaleriUygulamasi_G022.runtimeconfig.json
+D:\Masaüstü\G022 Sınıf\OtoGaleriUygulamasi\OtoGaleriUygulamasi_G022\bin\Debug\net5.0\OtoGaleriUygulamasi_G022.runtimeconfig.dev.json
+D:\Masaüstü\G022 Sınıf\OtoGaleriUygulamasi\OtoGaleriUygulamasi_G022\bin\Debug\net5.0\OtoGaleriUygulamasi_G022.dll
+D:\Masaüstü\G022 Sınıf\OtoGaleriUygulamasi\OtoGaleriUygulamasi_G022\bin\Debug\net5.0\ref\OtoGaleriUygulamasi_G022.dll
+D:\Masaüstü\G022 Sınıf\OtoGaleriUygulamasi\OtoGaleriUygulamasi_G022\bin\Debug\net5.0\OtoGaleriUygulamasi_G022.pdb
+D:\Masaüstü\G022 Sınıf\OtoGaleriUygulamasi\OtoGaleriUygulamasi_G022\obj\Debug\net5.0\OtoGaleriUygulamasi_G022.csproj.AssemblyReference.cache
+D:\Masaüstü\G022 Sınıf\OtoGaleriUygulamasi\OtoGaleriUygulamasi_G022\obj\Debug\net5.0\OtoGaleriUygulamasi_G022.GeneratedMSBuildEditorConfig.editorconfig
+D:\Masaüstü\G022 Sınıf\OtoGaleriUygulamasi\OtoGaleriUygulamasi_G022\obj\Debug\net5.0\OtoGaleriUygulamasi_G022.AssemblyInfoInputs.cache
+D:\Masaüstü\G022 Sınıf\OtoGaleriUygulamasi\OtoGaleriUygulamasi_G022\obj\Debug\net5.0\OtoGaleriUygulamasi_G022.AssemblyInfo.cs
+D:\Masaüstü\G022 Sınıf\OtoGaleriUygulamasi\OtoGaleriUygulamasi_G022\obj\Debug\net5.0\OtoGaleriUygulamasi_G022.csproj.CoreCompileInputs.cache
+D:\Masaüstü\G022 Sınıf\OtoGaleriUygulamasi\OtoGaleriUygulamasi_G022\obj\Debug\net5.0\OtoGaleriUygulamasi_G022.dll
+D:\Masaüstü\G022 Sınıf\OtoGaleriUygulamasi\OtoGaleriUygulamasi_G022\obj\Debug\net5.0\ref\OtoGaleriUygulamasi_G022.dll
+D:\Masaüstü\G022 Sınıf\OtoGaleriUygulamasi\OtoGaleriUygulamasi_G022\obj\Debug\net5.0\OtoGaleriUygulamasi_G022.pdb
+D:\Masaüstü\G022 Sınıf\OtoGaleriUygulamasi\OtoGaleriUygulamasi_G022\obj\Debug\net5.0\OtoGaleriUygulamasi_G022.genruntimeconfig.cache
+D:\Masaüstü\G022 Sınıf\OtoGaleriUygulamasiSon\OtoGaleriUygulamasi_G022\bin\Debug\net5.0\OtoGaleriUygulamasi_G022.exe
+D:\Masaüstü\G022 Sınıf\OtoGaleriUygulamasiSon\OtoGaleriUygulamasi_G022\bin\Debug\net5.0\OtoGaleriUygulamasi_G022.deps.json
+D:\Masaüstü\G022 Sınıf\OtoGaleriUygulamasiSon\OtoGaleriUygulamasi_G022\bin\Debug\net5.0\OtoGaleriUygulamasi_G022.runtimeconfig.json
+D:\Masaüstü\G022 Sınıf\OtoGaleriUygulamasiSon\OtoGaleriUygulamasi_G022\bin\Debug\net5.0\OtoGaleriUygulamasi_G022.runtimeconfig.dev.json
+D:\Masaüstü\G022 Sınıf\OtoGaleriUygulamasiSon\OtoGaleriUygulamasi_G022\bin\Debug\net5.0\OtoGaleriUygulamasi_G022.dll
+D:\Masaüstü\G022 Sınıf\OtoGaleriUygulamasiSon\OtoGaleriUygulamasi_G022\bin\Debug\net5.0\ref\OtoGaleriUygulamasi_G022.dll
+D:\Masaüstü\G022 Sınıf\OtoGaleriUygulamasiSon\OtoGaleriUygulamasi_G022\bin\Debug\net5.0\OtoGaleriUygulamasi_G022.pdb
+D:\Masaüstü\G022 Sınıf\OtoGaleriUygulamasiSon\OtoGaleriUygulamasi_G022\obj\Debug\net5.0\OtoGaleriUygulamasi_G022.csproj.AssemblyReference.cache
+D:\Masaüstü\G022 Sınıf\OtoGaleriUygulamasiSon\OtoGaleriUygulamasi_G022\obj\Debug\net5.0\OtoGaleriUygulamasi_G022.GeneratedMSBuildEditorConfig.editorconfig
+D:\Masaüstü\G022 Sınıf\OtoGaleriUygulamasiSon\OtoGaleriUygulamasi_G022\obj\Debug\net5.0\OtoGaleriUygulamasi_G022.AssemblyInfoInputs.cache
+D:\Masaüstü\G022 Sınıf\OtoGaleriUygulamasiSon\OtoGaleriUygulamasi_G022\obj\Debug\net5.0\OtoGaleriUygulamasi_G022.AssemblyInfo.cs
+D:\Masaüstü\G022 Sınıf\OtoGaleriUygulamasiSon\OtoGaleriUygulamasi_G022\obj\Debug\net5.0\OtoGaleriUygulamasi_G022.csproj.CoreCompileInputs.cache
+D:\Masaüstü\G022 Sınıf\OtoGaleriUygulamasiSon\OtoGaleriUygulamasi_G022\obj\Debug\net5.0\OtoGaleriUygulamasi_G022.dll
+D:\Masaüstü\G022 Sınıf\OtoGaleriUygulamasiSon\OtoGaleriUygulamasi_G022\obj\Debug\net5.0\ref\OtoGaleriUygulamasi_G022.dll
+D:\Masaüstü\G022 Sınıf\OtoGaleriUygulamasiSon\OtoGaleriUygulamasi_G022\obj\Debug\net5.0\OtoGaleriUygulamasi_G022.pdb
+D:\Masaüstü\G022 Sınıf\OtoGaleriUygulamasiSon\OtoGaleriUygulamasi_G022\obj\Debug\net5.0\OtoGaleriUygulamasi_G022.genruntimeconfig.cache
